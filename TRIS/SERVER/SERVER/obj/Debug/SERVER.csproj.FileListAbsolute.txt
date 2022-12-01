@@ -1,0 +1,42 @@
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\demic\Desktop\TRIS\SERVER\SERVER\obj\Debug\SERVER.pdb
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.pdb
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\demic\Desktop\TRIS (3)\TRIS\SERVER\SERVER\obj\Debug\SERVER.pdb
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\SERVER\SERVER\obj\Debug\SERVER.pdb

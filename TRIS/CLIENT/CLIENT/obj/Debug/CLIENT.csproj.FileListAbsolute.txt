@@ -1,0 +1,90 @@
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\Guna.UI2.dll
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.REGOLE.resources
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.CLIENT.resources
+C:\Users\demic\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\bin\Debug\Guna.UI2.dll
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.CLIENT.resources
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.REGOLE.resources
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CopyComplete
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Demi\Desktop\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\Guna.UI2.dll
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.CLIENT.resources
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.REGOLE.resources
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CopyComplete
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\Guna.UI2.dll
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.CLIENT.resources
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.REGOLE.resources
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\demic\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\bin\Debug\Guna.UI2.dll
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.CLIENT.resources
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.REGOLE.resources
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\anton\OneDrive\Desktop\TRIS (3)\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\bin\Debug\Guna.UI2.dll
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.CLIENT.resources
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.REGOLE.resources
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CopyComplete
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Demi\Desktop\GIOCO TRIS\TRIS\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
